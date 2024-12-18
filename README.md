@@ -4,7 +4,7 @@ Certainly! Here’s an even more detailed README profile:
 
 👋 Hi, I’m @hlelolwenkosi
 
-I’m a dedicated software development student at Codespace Academy, where I focus on front-end development and am passionate about creating engaging, interactive web experiences.
+I’m a dedicated software development graduate from Codespace Academy, where I focus on front-end development and am passionate about creating engaging, interactive web experiences.
 My studies have provided me with a solid foundation in JavaScript, HTML, and CSS, and I’m constantly exploring new frameworks and technologies to expand my skill set.
 
 🌱 **Currently Learning:** I’m delving into advanced JavaScript concepts, experimenting with popular libraries like React and Vue.js,and learning about modern CSS techniques for responsive design. 
